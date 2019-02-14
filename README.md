@@ -1,5 +1,6 @@
 # Powerapps-course
-This is for the Microsoft PowerApps course at Udemy
+This is for the Microsoft PowerApps course at Udemy:
+https://www.udemy.com/powerapps/?couponCode=POWERAPPS10
 Course Description:
 
 Build Business Apps Without Code! That's right - no programming skills required.
